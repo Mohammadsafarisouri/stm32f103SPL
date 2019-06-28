@@ -1,0 +1,138 @@
+Dependencies for Project 'usart', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5A8B5861)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\sys -I..\SYSTEM\delay -I..\HARDWAR\LED-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\RTE_Components.h)(0x5A8B5721)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625F654)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB5CB8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\misc.h)(0x52FA2A68)
+I (..\SYSTEM\sys\sys.h)(0x533296DA)
+I (..\SYSTEM\delay\delay.h)(0x53328E2A)
+I (..\HARDWAR\LED\led.h)(0x5A7D7ECA)
+F (..\HARDWAR\LED\led.c)(0x5A7D86CF)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\sys -I..\SYSTEM\delay -I..\HARDWAR\LED-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (..\HARDWAR\LED\led.h)(0x5A7D7ECA)
+I (..\SYSTEM\sys\sys.h)(0x533296DA)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\RTE_Components.h)(0x5A8B5721)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625F654)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB5CB8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\misc.h)(0x52FA2A68)
+F (..\SYSTEM\sys\sys.c)(0x533296DA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\sys -I..\SYSTEM\delay -I..\HARDWAR\LED-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (..\SYSTEM\sys\sys.h)(0x533296DA)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\RTE_Components.h)(0x5A8B5721)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625F654)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB5CB8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\misc.h)(0x52FA2A68)
+F (..\SYSTEM\delay\delay.c)(0x533296DA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\sys -I..\SYSTEM\delay -I..\HARDWAR\LED-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (..\SYSTEM\delay\delay.h)(0x53328E2A)
+I (..\SYSTEM\sys\sys.h)(0x533296DA)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\RTE_Components.h)(0x5A8B5721)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625F654)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB5CB8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\misc.h)(0x52FA2A68)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\misc.c)(0x52FA2A68)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\sys -I..\SYSTEM\delay -I..\HARDWAR\LED-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\misc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\RTE_Components.h)(0x5A8B5721)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625F654)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB5CB8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52FA2A68)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x52FA2A68)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\sys -I..\SYSTEM\delay -I..\HARDWAR\LED-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\RTE_Components.h)(0x5A8B5721)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625F654)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB5CB8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\misc.h)(0x52FA2A68)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x52FA2A68)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\sys -I..\SYSTEM\delay -I..\HARDWAR\LED-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\RTE_Components.h)(0x5A8B5721)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625F654)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB5CB8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\misc.h)(0x52FA2A68)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\stm32f10x_usart.c)(0x52FA2A68)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\sys -I..\SYSTEM\delay -I..\HARDWAR\LED-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_usart.o --omf_browse .\objects\stm32f10x_usart.crf --depend .\objects\stm32f10x_usart.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\RTE_Components.h)(0x5A8B5721)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625F654)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB5CB8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\misc.h)(0x52FA2A68)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x57D280A8)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x582577B4)(--cpu Cortex-M3 -g --apcs=interwork -I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc--pd "__UVISION_VERSION SETA 517" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)()
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x582577B4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\sys -I..\SYSTEM\delay -I..\HARDWAR\LED-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE"-I "D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\RTE_Components.h)(0x5A8B5721)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625F654)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB5CB8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625E298)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h)(0x582577B4)
+I (D:\My Electronic Documents\Tamrin\ARM_STM32_tamrin V.2\test3_usart_cmsis\user\RTE\Device\STM32F103C8\stm32f10x_conf.h)(0x52FA2D18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52FA2A68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\inc\misc.h)(0x52FA2A68)
